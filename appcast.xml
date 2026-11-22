@@ -3,6 +3,16 @@
     <channel>
         <title>ordino</title>
         <item>
+            <title>0.2.0-beta.2</title>
+            <pubDate>Sun, 22 Nov 2026 14:42:18 +0100</pubDate>
+            <link>https://github.com/xsugra/ordino-updates</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>20034</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://xsugra.github.io/ordino-updates/archives/ordino-0.2.0-beta.2.zip" length="3695946" type="application/octet-stream" sparkle:edSignature="6EQDjlD9C6aEuA45hn649GD9IE6lX33/VVZlwJTy1zbIfl9lW36re79aa+nYMhRI+I5FJTkeNbCoWNjfzt5ZBw=="/>
+        </item>
+        <item>
             <title>0.2.0-beta.1</title>
             <pubDate>Sun, 22 Nov 2026 01:23:25 +0100</pubDate>
             <link>https://github.com/xsugra/ordino-updates</link>
