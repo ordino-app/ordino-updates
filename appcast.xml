@@ -10,7 +10,7 @@
             <sparkle:version>20034</sparkle:version>
             <sparkle:shortVersionString>0.2.0-beta.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://xsugra.github.io/ordino-updates/archives/ordino-0.2.0-beta.2.zip" length="3695946" type="application/octet-stream" sparkle:edSignature="6EQDjlD9C6aEuA45hn649GD9IE6lX33/VVZlwJTy1zbIfl9lW36re79aa+nYMhRI+I5FJTkeNbCoWNjfzt5ZBw=="/>
+            <enclosure url="https://ordino-app.github.io/ordino-updates/archives/ordino-0.2.0-beta.2.zip" length="3695946" type="application/octet-stream" sparkle:edSignature="6EQDjlD9C6aEuA45hn649GD9IE6lX33/VVZlwJTy1zbIfl9lW36re79aa+nYMhRI+I5FJTkeNbCoWNjfzt5ZBw=="/>
         </item>
         <item>
             <title>0.2.0-beta.1</title>
@@ -20,7 +20,7 @@
             <sparkle:version>20033</sparkle:version>
             <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://xsugra.github.io/ordino-updates/archives/ordino-0.2.0-beta.1.zip" length="3589076" type="application/octet-stream" sparkle:edSignature="D4l2PpD5kVsJ/1QUIloW+dnlN9Vud0HiTRRjgcWUPDIaaDqpuw4phbZuPtoU+CDVShzyu1k0wDqn3kEhS3d6DA=="/>
+            <enclosure url="https://ordino-app.github.io/ordino-updates/archives/ordino-0.2.0-beta.1.zip" length="3589076" type="application/octet-stream" sparkle:edSignature="D4l2PpD5kVsJ/1QUIloW+dnlN9Vud0HiTRRjgcWUPDIaaDqpuw4phbZuPtoU+CDVShzyu1k0wDqn3kEhS3d6DA=="/>
         </item>
         <item>
             <title>0.1.0-beta.2</title>
@@ -30,7 +30,7 @@
             <sparkle:version>10034</sparkle:version>
             <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://xsugra.github.io/ordino-updates/archives/ordino-0.1.0-beta.2.zip" length="1763180" type="application/octet-stream" sparkle:edSignature="tz0EzpbQ3etK3YAmwxF3ZpRgDZCjqwPBGagERGxBhIWEfZYRkVB8OWVhs82gzdRM7GBgcKHtO0ZRU8ta+MgXDA=="/>
+            <enclosure url="https://ordino-app.github.io/ordino-updates/archives/ordino-0.1.0-beta.2.zip" length="1763180" type="application/octet-stream" sparkle:edSignature="tz0EzpbQ3etK3YAmwxF3ZpRgDZCjqwPBGagERGxBhIWEfZYRkVB8OWVhs82gzdRM7GBgcKHtO0ZRU8ta+MgXDA=="/>
         </item>
     </channel>
 </rss>
