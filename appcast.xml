@@ -3,6 +3,16 @@
     <channel>
         <title>ordino</title>
         <item>
+            <title>0.2.0-beta.5</title>
+            <pubDate>Fri, 27 Nov 2026 16:18:02 +0100</pubDate>
+            <link>https://github.com/ordino-app/ordino-updates</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>20037</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ordino-app.github.io/ordino-updates/archives/ordino-0.2.0-beta.5.zip" length="4144665" type="application/octet-stream" sparkle:edSignature="Y1Ql2hOagEvxZZbDw4gjygZVURjAPnY5Ckr/22Mav0sT+7WAOacKsNFJJkgqYZGF4ULmXe9sVVUV+Z2VHVlHBw=="/>
+        </item>
+        <item>
             <title>0.2.0-beta.4</title>
             <pubDate>Sun, 22 Nov 2026 23:38:12 +0100</pubDate>
             <link>https://github.com/ordino-app/ordino-updates</link>
@@ -21,16 +31,6 @@
             <sparkle:shortVersionString>0.2.0-beta.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://ordino-app.github.io/ordino-updates/archives/ordino-0.2.0-beta.3.zip" length="3700029" type="application/octet-stream" sparkle:edSignature="ZOt7Up1CAthsRVs86SqhThdb6bf82uaFOvZNiICBcUca5Qfn3BdVch1mMd45mgeq050shmMMPi5/oJ7es+ozAA=="/>
-        </item>
-        <item>
-            <title>0.2.0-beta.2</title>
-            <pubDate>Sun, 22 Nov 2026 14:42:18 +0100</pubDate>
-            <link>https://github.com/xsugra/ordino-updates</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>20034</sparkle:version>
-            <sparkle:shortVersionString>0.2.0-beta.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ordino-app.github.io/ordino-updates/archives/ordino-0.2.0-beta.2.zip" length="3695946" type="application/octet-stream" sparkle:edSignature="6EQDjlD9C6aEuA45hn649GD9IE6lX33/VVZlwJTy1zbIfl9lW36re79aa+nYMhRI+I5FJTkeNbCoWNjfzt5ZBw=="/>
         </item>
     </channel>
 </rss>
